@@ -133,6 +133,11 @@ let navConfigs = ref([
     label: '一键重置',
   },
   {
+    key: navType.back,
+    label: '返回主站',
+    url: 'iidear.us.kg',
+  },
+  {
     key: navType.about,
     label: '关于'
   },
